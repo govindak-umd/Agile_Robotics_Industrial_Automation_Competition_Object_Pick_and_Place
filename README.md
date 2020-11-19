@@ -4,9 +4,9 @@
 
 ## Videos
 
-[Video 1](https://youtu.be/xjymymuRcqY)
-[Video 2](https://youtu.be/Tc0KH66oZGQ)
-[Video 3](https://youtu.be/X_ETmvpey28)
+[Video 1](https://youtu.be/xjymymuRcqY) </br>
+[Video 2](https://youtu.be/Tc0KH66oZGQ) </br>
+[Video 3](https://youtu.be/X_ETmvpey28) </br>
 
 ## Team members
 1. Pradeep Gopal
